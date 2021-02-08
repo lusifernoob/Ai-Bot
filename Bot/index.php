@@ -68,15 +68,15 @@ Alvi('sendMessage',[
 
 I'm $BOT_NAME a powerfull AI Bot
 
-I will resopnd to any image you send. Send me a image to me, I will say what is That😜
+I will resopnd to any image you send. Send me a image to me, I will say what is That🙄
 
-Also add me to your group and make me admin. I'll reply to every photo😌.***",
+Also add me to your group and make me admin. I'll reply to every photo👀.***",
 'reply_to_message_id'=>$message_id,
 'parse_mode'=>"MarkDown",
 'reply_markup' =>  json_encode([
 'inline_keyboard' => [
 [['text' => "SUPPORT",'url' => "https://telegram.me/OMG_info"],['text' => "CREATOR", 'url' => "https://telegram.me/shado_hackers"]],
-[['text' => "ADD ME", 'url' => "https://telegram.me/$BOT_USERNAME?startgroup=False"],['text' => "Repo", 'url' => "https://github.com/Benchamxd/Ai-Bot"]], 
+[['text' => "ADD ME", 'url' => "https://telegram.me/$BOT_USERNAME?startgroup=False"],['text' => "Repo", 'url' => "☢️error 404 not found⚠️ "]], 
 ]])
 ]);
 }
